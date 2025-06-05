@@ -1,4 +1,11 @@
 # MQTTSX
+
+#UPDATE : Released Version 1.3 - Change Note
+1. Added Retained and QoS setting for Publish message
+2. Updated Subscribe observer window with details of message such as Topic, Payload, Date and Time, QoS and Retained
+3. Added Tool version details
+4. Minor bug fixes and improvements
+
 MQTT-SX is an MQTT client tool which is aimed to be simple and easy for developers. I intend to develop this tool further to make the life of Developers easier by providing a free and easy tool but most importantly a secure tool which can be trusted. The tool doesn't capture any details of the broker connection and hence is very secure to be use.
 
 **Please use Java 23.0 for this tool**
